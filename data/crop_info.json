@@ -1,5 +1,5 @@
 {
-  "rice": {
+  "Rice": {
     "name": "Rice",
     "scientific_name": "Oryza sativa",
     "season": "Kharif",
@@ -11,7 +11,7 @@
     "soil": "Clayey or loamy soil",
     "region": "Eastern and southern India"
   },
-  "wheat": {
+  "Wheat": {
     "name": "Wheat",
     "scientific_name": "Triticum aestivum",
     "season": "Rabi",
@@ -23,7 +23,7 @@
     "soil": "Well-drained loamy soil",
     "region": "Northern India"
   },
-  "maize": {
+  "Maize": {
     "name": "Maize",
     "scientific_name": "Zea mays",
     "season": "Kharif",
@@ -35,7 +35,7 @@
     "soil": "Well-drained loamy soil",
     "region": "Across India"
   },
-  "sugarcane": {
+  "Sugarcane": {
     "name": "Sugarcane",
     "scientific_name": "Saccharum officinarum",
     "season": "Annual crop",
@@ -47,7 +47,7 @@
     "soil": "Deep fertile loamy soil with good drainage",
     "region": "Uttar Pradesh, Maharashtra, Karnataka"
   },
-  "cotton": {
+  "Cotton": {
     "name": "Cotton",
     "scientific_name": "Gossypium spp.",
     "season": "Kharif",
@@ -59,7 +59,7 @@
     "soil": "Black cotton soil",
     "region": "Maharashtra, Gujarat, Andhra Pradesh"
   },
-  "millet": {
+  "Millet": {
     "name": "Millet",
     "scientific_name": "Eleusine coracana (Ragi), Pennisetum glaucum (Bajra)",
     "season": "Kharif",
@@ -71,7 +71,7 @@
     "soil": "Sandy or loamy soil",
     "region": "Rajasthan, Karnataka, Tamil Nadu"
   },
-  "barley": {
+  "Barley": {
     "name": "Barley",
     "scientific_name": "Hordeum vulgare",
     "season": "Rabi",
@@ -83,7 +83,7 @@
     "soil": "Well-drained loamy or sandy soil",
     "region": "Northern plains"
   },
-  "soybean": {
+  "Soybean": {
     "name": "Soybean",
     "scientific_name": "Glycine max",
     "season": "Kharif",
@@ -95,7 +95,7 @@
     "soil": "Fertile loamy soil with good drainage",
     "region": "Madhya Pradesh, Maharashtra"
   },
-  "groundnut": {
+  "Groundnut": {
     "name": "Groundnut",
     "scientific_name": "Arachis hypogaea",
     "season": "Kharif",
@@ -106,8 +106,8 @@
     },
     "soil": "Well-drained sandy loam soil",
     "region": "Gujarat, Tamil Nadu, Andhra Pradesh"
-  },
-  "mustard": {
+  }, 
+  "Mustard": {
     "name": "Mustard",
     "scientific_name": "Brassica juncea",
     "season": "Rabi",
