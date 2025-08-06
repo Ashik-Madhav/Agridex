@@ -1,1 +1,122 @@
-
+{
+  "rice": {
+    "name": "Rice",
+    "scientific_name": "Oryza sativa",
+    "season": "Kharif",
+    "growth_duration": "120-150 days",
+    "climate": {
+      "temperature": "Warm (20–35°C)",
+      "rainfall": "100–200 cm"
+    },
+    "soil": "Clayey or loamy soil",
+    "region": "Eastern and southern India"
+  },
+  "wheat": {
+    "name": "Wheat",
+    "scientific_name": "Triticum aestivum",
+    "season": "Rabi",
+    "growth_duration": "120-150 days",
+    "climate": {
+      "temperature": "Cool (10–25°C)",
+      "rainfall": "30–100 cm"
+    },
+    "soil": "Well-drained loamy soil",
+    "region": "Northern India"
+  },
+  "maize": {
+    "name": "Maize",
+    "scientific_name": "Zea mays",
+    "season": "Kharif",
+    "growth_duration": "90-120 days",
+    "climate": {
+      "temperature": "20–30°C",
+      "rainfall": "50–100 cm"
+    },
+    "soil": "Well-drained loamy soil",
+    "region": "Across India"
+  },
+  "sugarcane": {
+    "name": "Sugarcane",
+    "scientific_name": "Saccharum officinarum",
+    "season": "Annual crop",
+    "growth_duration": "10-16 months",
+    "climate": {
+      "temperature": "Hot (25–35°C)",
+      "rainfall": "100–250 cm"
+    },
+    "soil": "Deep fertile loamy soil with good drainage",
+    "region": "Uttar Pradesh, Maharashtra, Karnataka"
+  },
+  "cotton": {
+    "name": "Cotton",
+    "scientific_name": "Gossypium spp.",
+    "season": "Kharif",
+    "growth_duration": "150-180 days",
+    "climate": {
+      "temperature": "Warm (21–30°C)",
+      "rainfall": "50–100 cm"
+    },
+    "soil": "Black cotton soil",
+    "region": "Maharashtra, Gujarat, Andhra Pradesh"
+  },
+  "millet": {
+    "name": "Millet",
+    "scientific_name": "Eleusine coracana (Ragi), Pennisetum glaucum (Bajra)",
+    "season": "Kharif",
+    "growth_duration": "60-90 days",
+    "climate": {
+      "temperature": "25–35°C",
+      "rainfall": "20–60 cm"
+    },
+    "soil": "Sandy or loamy soil",
+    "region": "Rajasthan, Karnataka, Tamil Nadu"
+  },
+  "barley": {
+    "name": "Barley",
+    "scientific_name": "Hordeum vulgare",
+    "season": "Rabi",
+    "growth_duration": "90–100 days",
+    "climate": {
+      "temperature": "10–25°C",
+      "rainfall": "30–40 cm"
+    },
+    "soil": "Well-drained loamy or sandy soil",
+    "region": "Northern plains"
+  },
+  "soybean": {
+    "name": "Soybean",
+    "scientific_name": "Glycine max",
+    "season": "Kharif",
+    "growth_duration": "90-120 days",
+    "climate": {
+      "temperature": "20–30°C",
+      "rainfall": "60–80 cm"
+    },
+    "soil": "Fertile loamy soil with good drainage",
+    "region": "Madhya Pradesh, Maharashtra"
+  },
+  "groundnut": {
+    "name": "Groundnut",
+    "scientific_name": "Arachis hypogaea",
+    "season": "Kharif",
+    "growth_duration": "100–130 days",
+    "climate": {
+      "temperature": "25–30°C",
+      "rainfall": "50–100 cm"
+    },
+    "soil": "Well-drained sandy loam soil",
+    "region": "Gujarat, Tamil Nadu, Andhra Pradesh"
+  },
+  "mustard": {
+    "name": "Mustard",
+    "scientific_name": "Brassica juncea",
+    "season": "Rabi",
+    "growth_duration": "90–110 days",
+    "climate": {
+      "temperature": "10–25°C",
+      "rainfall": "25–40 cm"
+    },
+    "soil": "Loamy to clay loam soil",
+    "region": "Haryana, Rajasthan, Madhya Pradesh"
+  }
+}
